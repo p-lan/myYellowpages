@@ -1,6 +1,6 @@
 ---
 applications:
- - name: GetStartedJava
+ - name: myYellowpages
    random-route: true
    path: target/GetStartedJava.war
    memory: 512M
